@@ -1,6 +1,6 @@
 # TANZANIA WATER WELLS PREDICTION
 
-![image](https://github.com/josephinemaro/Phase3-Project/assets/162449289/813a5ac3-2232-4b5c-9506-715c288e1ed7)
+#### ![image](https://github.com/josephinemaro/Phase3-Project/assets/162449289/813a5ac3-2232-4b5c-9506-715c288e1ed7)
 
 
 ## Overview
@@ -43,7 +43,7 @@ Logistic Regression: Achieved an accuracy of approximately 66.4%. It performed m
 K-Nearest Neighbors (KNN): Achieved an accuracy of approximately 67.2%. Similar to Logistic Regression, it performed moderately well for functional and non-functional wells but struggled with wells needing repair, resulting in a low F1-score for this class.
 ![image](https://github.com/josephinemaro/Phase3-Project/assets/162449289/8e9985f4-d06a-4c26-a2a2-45140ce30e7d)
 
-Decision Tree: Outperformed the other models, achieving an accuracy of approximately 71.0%. It performed better in identifying functional and non-functional wells but still faced challenges in accurately predicting wells needing repair, with a low F1-score for this class.
+Decision Tree: Outperformed the other models, achieving an accuracy of approximately 71.0% as shown in the figure above. It performed better in identifying functional and non-functional wells but still faced challenges in accurately predicting wells needing repair, with a low F1-score for this class.
 
 Random Forest: Achieved an accuracy of approximately 68.0%. While it performed well for functional and non-functional wells, it struggled significantly with wells needing repair, resulting in a low F1-score for this class.
 
