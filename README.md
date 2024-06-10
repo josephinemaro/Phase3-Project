@@ -1,6 +1,5 @@
 # TANZANIA WATER WELLS PREDICTION
-                                ![image](https://github.com/josephinemaro/Phase3-Project/assets/162449289/954827e6-8c84-42b0-ac48-5a8d1b32ce6e)
-
+![image](https://github.com/josephinemaro/Phase3-Project/assets/162449289/26d2d0aa-9162-47eb-98f5-9442c65b1a5a)
 
 ## Overview
 This project aims to analyze data from Tanzanian water wells to identify patterns and factors that contribute to well functionality status. By developing predictive models and segmenting wells based on their characteristics and performance, we aim to provide actionable insights to improve well maintenance, optimize resource allocation, and enhance water access. These insights will support decision-making processes to ensure the sustainability and efficiency of water supply systems.
